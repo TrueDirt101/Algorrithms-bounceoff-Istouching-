@@ -1,2 +1,2 @@
-# Algorrithms-bounceoff-Istouching-
-Algorrithms for a new library
+# p5.play-boilerplate
+Boiler plate for p5.play
